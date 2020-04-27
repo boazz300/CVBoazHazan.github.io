@@ -91,8 +91,8 @@ experiences:
         Maven, Nexus, VMware, and Linux
 
 projects:
-    - title: Android Projects
-      link: "https://boazz300.github.io/boazhazan.github.io/"  
+    title: Android Projects
+    link: "https://boazz300.github.io/boazhazan.github.io/"    
     intro: >
     assignments:
       - title: Movietrailer
