@@ -97,13 +97,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Movietrailer
+        link: "https://github.com/boazz300/Movietrailer"
+        tagline: "Movietrailer the new way to search for a movie and decide which movie will be the next to watch.
+        watching Movietrailer in the best UI and Graphics Movietrailer video stream!"
 
       - title: DevStudio
         link: "#"
