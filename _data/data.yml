@@ -112,7 +112,7 @@ publications:
     intro: |
     papers:
       - title: Android Fudnamentals
-        link: "#"
+        link: "https://github.com/boazz300/CVBoazHazan.github.io/raw/master/assets/images/Android_Fudnamentals.jpg"
         authors: Android Academy TLV
 
       - title: "Android Application Development Course part 2"
