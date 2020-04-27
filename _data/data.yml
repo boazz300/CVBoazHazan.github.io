@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Boaz Hazan
-    tagline: Android Developer
+    tagline: Full Stack & Android Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Motivated Junior Android Developer with Bachelor degree in computer science and
+      Motivated Junior Full Stack & Android Developer with Bachelor degree in computer science and
       mathematics and 3 years of experience in challenging development environments. Excellent
       communication and organizational abilities with a resourceful approach to solving diverse
       problems. Deadline-driven and knowledgeable professional with a strong desire to learn and
