@@ -92,9 +92,11 @@ experiences:
 
 projects:
     title: Android Projects
-    link: "https://boazz300.github.io/boazhazan.github.io/"    
     intro: >
     assignments:
+      - title: Android Protfolio
+        link: "https://boazz300.github.io/boazhazan.github.io/"    
+            
       - title: Movietrailer
         link: "https://github.com/boazz300/Movietrailer"
         tagline: "Movietrailer the new way to search for a movie and decide which movie will be the next to watch.
