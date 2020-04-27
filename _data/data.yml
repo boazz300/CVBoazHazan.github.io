@@ -106,6 +106,22 @@ projects:
         link: "https://github.com/boazz300/Sunshine"
         tagline: "Sunshine allows you to check the weather wherever you are in the world in a nice and a fashion way.
         Free, no ads, no data collect, you would miss something if you do not at least try us out."
+        
+publications:
+    title: Courses and Certifications
+    intro: |
+    papers:
+      - title: Android Fudnamentals
+        link: "#"
+        authors: Android Academy TLV
+
+      - title: "Android Application Development Course part 2"
+        link: "https://github.com/boazz300/CVBoazHazan.github.io/raw/master/assets/images/AndroidpartB.jpg"
+        authors: Center for Design and Technology in Ariel University
+        
+      - title: "Android Application Development Course part 1"
+        link: "https://github.com/boazz300/CVBoazHazan.github.io/raw/master/assets/images/AndroidpartA.jpg"
+        authors: Center for Design and Technology in Ariel University
  
 skills:
     title: Skills &amp; Proficiency
